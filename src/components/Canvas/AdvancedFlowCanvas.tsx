@@ -497,7 +497,7 @@ export default function AdvancedFlowCanvas() {
               </div>
             </div>
           </div>
-        )}
+        )}  
         
         {/* Instructions overlay */}
         <div className="absolute bottom-4 right-4 bg-white p-2 rounded-md shadow-md text-sm text-gray-600">
